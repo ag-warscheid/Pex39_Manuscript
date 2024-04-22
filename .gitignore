@@ -1,2 +1,3 @@
 .idea/
 *.pkl
+**/*.cpython-310..pyc
