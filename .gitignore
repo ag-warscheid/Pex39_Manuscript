@@ -1,3 +1,6 @@
 .idea/
-*.pkl
+**.pkl
 **/*.cpython-310..pyc
+/Pex18_TPA/plots/
+/Pex39_KO/plots/
+**/__pycache__/
