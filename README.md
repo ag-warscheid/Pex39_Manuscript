@@ -10,7 +10,7 @@ This repository contains data analysis scripts for the manuscript "PEX39 is a Pe
 - The scripts were tested with Python 3.10 and R 4.2.2 on MS Windows 10 and Ubuntu 22.04 LTS.
 
 ## Installation guide
-- Install autoprot on your local computer (see installation instrucitno on [the autoprot repository](https://github.com/ag-warscheid/autoprot)).
+- Install autoprot on your local computer (see installation instructions on [the autoprot repository](https://github.com/ag-warscheid/autoprot)).
   - All analyses in this repository were performed with autoprot and cannot be run without it.
 - Installation time largely depends on the time required to compile the R packages.
   - With a fast internet connection, the installation on a standard desktop computer should take less than 30 minutes.
